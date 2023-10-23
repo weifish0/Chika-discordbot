@@ -1,5 +1,5 @@
 {
-    "TOKEN": "OTkyMDAwMzI5MzEyODk0OTk3.GtOOGM.SA7YQltr6Zre7ZieuQIEc2Hp4lmKThbAwXTmpc",
+    "TOKEN": "",
     "todo_help_string": "`$todo add <截止日期> <要加入的事項>`: 將截止日期與事項加入 todo list。 e.g.: `$todo add 2022/07/03 資芽大作業 deadline`\n`$todo delete <第幾項>`: 將指定的那項刪除。 e.g. `$todo delete 1`\n`$todo list`: 顯示目前的 todo list。\n`$todo clear`: 清空整個 todo list。\n\n**請注意空格以及add中的日期要補0**",
     "guess_help_string": "`$guess start`: 開始遊戲\n`$guess <你要猜的一個四位數>`: 猜數字\n`$guess exit`: 離開遊戲\n`$guess scoreboard`: 計分板\n**數字不能有0, 且必須是自然數!**"
 }
