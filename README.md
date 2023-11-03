@@ -6,17 +6,17 @@
 
 ## 一些小功能的介紹
 ### 簡單的TODO功能
-1. 呼叫help
+1. 呼叫help\
 ![](./demo/todo-help.png)
-2. 新增todo
+2. 新增todo\
 ![](./demo/todo-add.png)
-3. 刪除todo
+3. 刪除todo\
 ![](./demo/todo-delete.png)
-4. 叫出全部todo
+4. 叫出全部todo\
 ![](./demo/todo-list.png)
 
 ### 猜數字小遊戲
-1. 呼叫help
+1. 呼叫help\
 ![](./demo/guess-help.png)
-2. 猜數字
+2. 猜數字\
 ![](./demo/guess-num.png)
